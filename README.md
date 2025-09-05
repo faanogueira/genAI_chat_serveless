@@ -10,7 +10,7 @@ O resultado é uma aplicação web responsiva, capaz de manter conversas complex
 
 ![Chat Serverless](assets/img/chat.png)
 
-![Visite o chat](http://fabio-bedrock-chat.s3-website-us-east-1.amazonaws.com/)
+👉 [Acesse o Chat Aqui](http://fabio-bedrock-chat.s3-website-us-east-1.amazonaws.com/)
 
 ## 🏗️ Arquitetura do Sistema
 
