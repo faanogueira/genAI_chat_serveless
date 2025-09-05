@@ -26,7 +26,8 @@ O coração deste projeto é o modelo **Claude 3 Haiku** da Anthropic, acessado 
 * **Raciocínio e Análise Complexos:** Capacidade de interpretar e resolver problemas de múltiplos passos.
 * **Geração e Otimização de Código:** Escreve, depura e explica código em diversas linguagens de programação.
 * **Capacidades de Conversação:** Mantém diálogos fluidos e contextuais, otimizado para aplicações
---
+
+
 
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contate-me: </h2>
