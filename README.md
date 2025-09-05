@@ -8,7 +8,9 @@ O resultado é uma aplicação web responsiva, capaz de manter conversas complex
 
 ## 🖼️ Demonstração da Interface
 
-[![Chat Serverless](assets/img/chat.png)]([https://github.com/faanogueira](http://fabio-bedrock-chat.s3-website-us-east-1.amazonaws.com/))
+![Chat Serverless](assets/img/chat.png)
+
+![Visite o chat](http://fabio-bedrock-chat.s3-website-us-east-1.amazonaws.com/)
 
 ## 🏗️ Arquitetura do Sistema
 
