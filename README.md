@@ -6,6 +6,10 @@ Este projeto demonstra a construção de um sistema de chat inteligente e escal�
 
 O resultado é uma aplicação web responsiva, capaz de manter conversas complexas, gerar código, traduzir idiomas e muito mais, servindo como um case prático de Cloud Computing e Segurança de Aplicações de IA.
 
+## 🖼️ Demonstração da Interface
+
+[![Chat Serverless](assets/img/chat.png)]([https://github.com/faanogueira](http://fabio-bedrock-chat.s3-website-us-east-1.amazonaws.com/))
+
 ## 🏗️ Arquitetura do Sistema
 
 A arquitetura foi projetada para ser eficiente, escalável e de baixa manutenção, seguindo o fluxo abaixo:
